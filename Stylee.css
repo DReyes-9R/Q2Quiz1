@@ -1,0 +1,61 @@
+body {
+    background-color: beige;
+    color: black;
+    background: url('https://isdpe.com.pk/flag.jpg') no-repeat;
+    background-size:cover;
+}
+
+.container {
+    background-color: beige;
+}
+
+img {
+width: 500px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 14px; 
+    color: #000;
+}
+
+td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table img {
+    display: block;
+    margin: 0 auto;
+}
+
+.footer {
+    background-color: #2C2C2C;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #2C2C2C; /* Example: Olive Green */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative; /* Change to fixed or sticky if required */
+    bottom: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+}
+
+footer {
+    margin-top: auto; /* This makes sure the footer stays at the bottom when content is short */
+}
